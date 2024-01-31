@@ -1,4 +1,4 @@
-package net.iqbalfauzan.newsapp
+package net.iqbalfauzan.baseproject
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

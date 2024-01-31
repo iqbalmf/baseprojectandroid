@@ -1,4 +1,4 @@
-package net.iqbalfauzan.newsapp.ui.theme
+package net.iqbalfauzan.baseproject.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
@@ -6,7 +6,7 @@ import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
-import net.iqbalfauzan.news_app.R
+import net.iqbalfauzan.baseproject.R
 
 val Poppins = FontFamily(
     fonts = listOf(

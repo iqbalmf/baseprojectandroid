@@ -1,10 +1,10 @@
-package net.iqbalfauzan.newsapp
+package net.iqbalfauzan.baseproject
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
-import net.iqbalfauzan.newsapp.ui.theme.NewsAppTheme
+import net.iqbalfauzan.baseproject.ui.theme.NewsAppTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

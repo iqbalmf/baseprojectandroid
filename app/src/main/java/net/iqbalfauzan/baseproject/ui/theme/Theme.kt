@@ -1,4 +1,4 @@
-package net.iqbalfauzan.newsapp.ui.theme
+package net.iqbalfauzan.baseproject.ui.theme
 
 import android.app.Activity
 import android.os.Build

@@ -1,4 +1,4 @@
-package net.iqbalfauzan.newsapp
+package net.iqbalfauzan.baseproject
 
 import org.junit.Test
 

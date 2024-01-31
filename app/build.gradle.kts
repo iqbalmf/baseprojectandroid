@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace  = "net.iqbalfauzan.news_app"
+    namespace  = "net.iqbalfauzan.baseproject"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "net.iqbalfauzan.news_app"
+        applicationId = "net.iqbalfauzan.baseproject"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
